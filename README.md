@@ -7,6 +7,9 @@
 # Description
 Employee Tracker is a command-line content management system (CMS) application that allows users to add, view, update data relating to employees, roles and departments to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
+Here is the demonstration of the application.\
+[Video demo of the application.](https://drive.google.com/file/d/1PVmYQxUEuJ4b2uU4FkT5ImhlsNSSeDro/view?usp=sharing)
+
 
 
   ## Table of Contents
