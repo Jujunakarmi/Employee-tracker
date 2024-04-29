@@ -4,6 +4,8 @@ CREATE DATABASE employee_db;
 
 USE employee_db;
 
+
+
 CREATE TABLE department (
     id INT AUTO_INCREMENT NOT NULL PRIMARY KEY,
     name VARCHAR(30) NOT NULL
