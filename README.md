@@ -1,10 +1,8 @@
 # Employee Tracker
 
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en) 
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://nodejs.org/en) 
 
-[![herokuBadge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 # Description
 Employee Tracker is a command-line content management system (CMS) application that allows users to add, view, update data relating to employees, roles and departments to manage a company's employee database, using Node.js, Inquirer, and MySQL.
